@@ -4,7 +4,7 @@ import './App.css'
 import About from './Components/About';
 import Home from './Components/Home'
 import NavBar from './Components/NavBar';
-import Page404 from './Components/Page404';
+// import Page404 from './Components/Page404';
 import User from './Components/User';
 function App() {
   return (
